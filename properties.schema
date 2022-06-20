@@ -17,7 +17,7 @@
             "_graphicLottie": {
               "type": "object",
               "required": false,
-              "legend": "Graphic Lottie Animation",
+              "legend": "Lottie Animation Image Replacer",
               "properties": {
                 "_isEnabled": {
                   "type": "boolean",

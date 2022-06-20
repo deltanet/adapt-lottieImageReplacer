@@ -1,13 +1,13 @@
 {
-  "name": "adapt-graphicLottie",
+  "name": "adapt-lottieImageReplacer",
   "version": "0.1.1",
   "framework": ">=5.14",
-  "homepage": "https://github.com/cgkineo/adapt-graphicLottie",
-  "issues": "https://github.com/cgkineo/adapt-graphicLottie/issues",
-  "extension" : "graphicLottie",
-  "displayName" : "Graphic Lottie Animation",
+  "homepage": "https://github.com/deltanet/adapt-lottieImageReplacer",
+  "issues": "https://github.com/deltanet/adapt-lottieImageReplacer/issues",
+  "extension" : "lottieImageReplacer",
+  "displayName" : "Lottie Animation Image Replacer",
   "description": "An extension allowing svg-based animation exported from Adobe After Effects using the Bodymovin plugin to be injected in-place of a graphic.",
-  "main": "/js/adapt-graphicLottie.js",
+  "main": "/js/adapt-lottieImageReplacer.js",
   "keywords": [
     "adapt-plugin",
     "adapt-extension"

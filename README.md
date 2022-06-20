@@ -1,6 +1,6 @@
-# Adapt Graphic Lottie
+# adapt-lottieImageReplacer
 
-**Adapt Graphic Lottie** is an *extension* that renders Lottie animations exported from Adobe After Effect using the Bodymovin plugin. It works *only* where graphics are rendered as *img* tags and not everywhere graphics are rendered as *img* tags, due to custom styling and behaviour.
+**Adapt Lottie Animation Image Replacer** is an *extension* that renders Lottie animations exported from Adobe After Effect using the Bodymovin plugin. It works *only* where graphics are rendered as *img* tags and not everywhere graphics are rendered as *img* tags, due to custom styling and behaviour.
 
 Uses v5.7.6 of Lottie.
 
@@ -9,7 +9,7 @@ Change the file ending of your json from `.json` to `.svgz` for use in the AAT i
 
 ## Settings Overview
 
-The attributes listed below are used in *course.json* to configure **Adapt Graphic Lottie**, and are properly formatted as JSON in [*example.json*](https://github.com/cgkineo/adapt-graphicLottie/blob/master/example.json).
+The attributes listed below are used in *course.json* for configuration, and are properly formatted as JSON in [*example.json*](https://github.com/deltanet/adapt-lottieImageReplacer/blob/master/example.json).
 
 ### Attributes
 
@@ -32,11 +32,3 @@ The attributes listed below are used in *course.json* to configure **Adapt Graph
 >**\_showPauseControl** (Boolean): Show the play / pause button. Defaults to `false`.
 
 >**\_onPauseRewind** (Boolean): Rewind when the pause button is clicked. Defaults to `false`.
-
-----------------------------
-**Version number:**  0.1.1<br/>
-**Framework versions:**  >=5.14<br/>
-**Author / maintainer:** Kineo<br/>
-**Accessibility support:** Yes<br/>
-**RTL support:** Yes<br/>
-**Cross-platform coverage:** Evergreen + IE11<br/>

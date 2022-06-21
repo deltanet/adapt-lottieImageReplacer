@@ -7,7 +7,7 @@
   "extension" : "lottieImageReplacer",
   "displayName" : "Lottie Animation Image Replacer",
   "description": "An extension allowing svg-based animation exported from Adobe After Effects using the Bodymovin plugin to be injected in-place of a graphic.",
-  "main": "/js/adapt-lottieImageReplacer.js",
+  "main": "/js/adapt-graphicLottie.js",
   "keywords": [
     "adapt-plugin",
     "adapt-extension"

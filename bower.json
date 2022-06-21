@@ -4,7 +4,7 @@
   "framework": ">=5.14",
   "homepage": "https://github.com/deltanet/adapt-lottieImageReplacer",
   "issues": "https://github.com/deltanet/adapt-lottieImageReplacer/issues",
-  "extension" : "lottieImageReplacer",
+  "extension" : "graphicLottie",
   "displayName" : "Lottie Animation Image Replacer",
   "description": "An extension allowing svg-based animation exported from Adobe After Effects using the Bodymovin plugin to be injected in-place of a graphic.",
   "main": "/js/adapt-graphicLottie.js",
